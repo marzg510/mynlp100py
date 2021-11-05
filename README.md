@@ -18,13 +18,13 @@ mecab --version
 sudo apt install mecab-ipadic mecab-ipadic-utf8
 sudo update-alternatives --config mecab-dictionary
 sudo apt install git make curl xz-utils file
-# mecab-ipadic-NEologd辞書のインストール
+# mecab-ipadic-NEologd辞書のインストール(これは多分いらない)
 cd /tmp
 sudo git clone --depth 1 https://github.com/neologd/mecab-ipadic-neologd.git
 cd mecab-ipadic-neologd
 sudo ./bin/install-mecab-ipadic-neologd -n
 mecab -d /usr/lib/x86_64-linux-gnu/mecab/dic/mecab-ipadic-neologd
-# Pythonバインディングモジュールのインストール
+# Pythonバインディングモジュールのインストール(これは多分いらない)
 pip install mecab-python3
 pip install unidic-lite
 ```
