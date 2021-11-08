@@ -70,3 +70,10 @@ cabocha
       読んでいる
 EOS
 ```
+
+### graphviz
+
+```bash
+pip install graphviz
+sudo apt install graphviz
+```
