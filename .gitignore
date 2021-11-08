@@ -128,3 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 jawiki-country.json
+
+# for this project
+ai.ja.txt
+CRF++-*.tar.gz
+readme.ai.ja.md
+CRF++-*/
+cabocha-*.tar.bz2
+cabocha-*/
