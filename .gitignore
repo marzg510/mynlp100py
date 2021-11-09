@@ -138,3 +138,5 @@ cabocha-*.tar.bz2
 cabocha-*/
 dgraph
 dgraph.pdf
+NewsAggregatorDataset.zip
+NewsAggregatorDataset/
