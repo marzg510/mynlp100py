@@ -62,6 +62,7 @@ cd cabocha-0.69
 make
 sudo make install
 cd ../
+sudo ldconfig
 cabocha
 太郎は本を読んでいる
 読んでいる-D    
@@ -74,6 +75,6 @@ EOS
 ### graphviz
 
 ```bash
-pip install graphviz
 sudo apt install graphviz
+pip install graphviz
 ```
