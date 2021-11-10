@@ -141,3 +141,4 @@ dgraph.pdf
 NewsAggregatorDataset.zip
 NewsAggregatorDataset/
 *.feature.txt
+GoogleNews-vectors-negative300.bin*

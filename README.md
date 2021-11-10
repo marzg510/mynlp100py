@@ -84,3 +84,10 @@ pip install graphviz
 ```bash
 pip install sklearn
 ```
+
+### gensim
+
+
+```bash
+pip install gensim
+```
