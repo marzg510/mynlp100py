@@ -78,3 +78,9 @@ EOS
 sudo apt install graphviz
 pip install graphviz
 ```
+
+### scikit-learn
+
+```bash
+pip install sklearn
+```
