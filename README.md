@@ -99,3 +99,9 @@ pip install gensim
 ```bash
 pip install tqdm
 ```
+
+
+### 国名データ
+
+- [Online Blowsing Platform](<https://www.iso.org/iso-3166-country-codes.html>) より拝借しXLS形式へコピペ
+
