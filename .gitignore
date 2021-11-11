@@ -142,3 +142,4 @@ NewsAggregatorDataset.zip
 NewsAggregatorDataset/
 *.feature.txt
 GoogleNews-vectors-negative300.bin*
+wordsim353.zip

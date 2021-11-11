@@ -91,3 +91,11 @@ pip install sklearn
 ```bash
 pip install gensim
 ```
+
+### tqdm
+
+- [Jupyter notebookでpandasのmap/applyメソッド進捗表示をいい感じにする](<https://qiita.com/MysteriousMonkey/items/a238da520993f1f4b0cf>)
+
+```bash
+pip install tqdm
+```
