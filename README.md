@@ -111,3 +111,8 @@ pip install tqdm
 pip install adjusttext
 ```
 
+### Tensorflow
+
+```bash
+pip install tensorflow
+```
