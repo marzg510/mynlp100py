@@ -105,3 +105,9 @@ pip install tqdm
 
 - [Online Blowsing Platform](<https://www.iso.org/iso-3166-country-codes.html>) より拝借しXLS形式へコピペ
 
+### adjust_text
+
+```bash
+pip install adjusttext
+```
+
